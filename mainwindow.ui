@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1920</width>
-    <height>1080</height>
+    <width>1600</width>
+    <height>943</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -53,9 +53,9 @@
    <widget class="QGraphicsView" name="graphicsView">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>100</y>
-      <width>1761</width>
+      <x>30</x>
+      <y>90</y>
+      <width>1861</width>
       <height>911</height>
      </rect>
     </property>
@@ -190,7 +190,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1920</width>
+     <width>1600</width>
      <height>22</height>
     </rect>
    </property>
