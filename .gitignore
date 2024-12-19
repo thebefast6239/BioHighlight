@@ -1,0 +1,67 @@
+# Бинарные файлы и файлы сборки
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.app
+*.bundle
+*.apk
+*.jar
+
+# Файлы отладки
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.manifest
+*.suo
+*.user
+
+# Файлы Qt Creator
+*.user
+*.pro.user
+*.layout
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj
+*.sln
+*.qmlc
+
+# Папки сборки
+debug/
+release/
+build/
+out/
+dist/
+bin/
+lib/
+
+# Файлы кэша
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Другие временные файлы
+*.log
+*.tmp
+*.bak
+*.tmp.*
+
+# Файлы, специфичные для разных ОС
+*~
+*.orig
+*.pyc
+__pycache__/
+
+# Файлы IDE (если не используете Qt Creator, добавьте нужные)
+*.idea/
+.vscode/
+
+# Добавьте сюда свои специфичные файлы и папки
+# Example: my_secret_config.json
+# Example: data/
